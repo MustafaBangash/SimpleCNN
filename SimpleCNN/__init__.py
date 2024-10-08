@@ -3,5 +3,5 @@
 from .activations import *
 from .losses import *
 from .optimizers import *
-from .layers import Layer
-from .neural_network import NeuralNetwork
+from .Layer import Layer
+from .NeuralNetwork import NeuralNetwork
